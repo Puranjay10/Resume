@@ -1,5 +1,13 @@
-## About
+# Resume
 
-I'm a Computer Science student passionate about software development, AI, and building impactful digital solutions. This repository contains my resume showcasing my technical skills, projects, education, and experiences.
+Hi, I'm Puranjay Kapoor — a final-year B.Tech Computer Science student who enjoys building software and figuring out how things work under the hood.
 
-Feel free to connect or reach out for collaborations, internships, or opportunities!
+My interests are mainly around software development, backend engineering, and AI. I've worked on projects involving REST APIs, authentication, transaction-safe workflows, databases, real-time systems, and AI-powered data extraction.
+
+A few of my projects include **VyaaparBill**, an OCR/LLM-based invoice processing system, and **Ticketify**, a backend system for event and ticket management.
+
+This repository contains my latest resume with my education, experience, projects, and technical skills.
+
+📄 **[View Resume](./Resume_PuranjayKapoor.pdf)**
+
+I'm always open to interesting engineering problems, internships, and opportunities to build useful things.
